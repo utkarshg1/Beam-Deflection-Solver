@@ -23,6 +23,6 @@ Solving Beam Deflection with Numerical method and testing with McCauley's Method
 ![alt text](https://github.com/utkarshg1/Beam-Deflection-Solver/blob/main/Deflection%20Comparison.png)
 
 # Conclusion
-RMS deviation from actual solution is 1.655618985619042e-05
-RMS actual deflection is 0.09057813893292617
-Percent deviation is 0.018278350660803938%
+RMS deviation from actual solution is 1.655618985619042e-05 \
+RMS actual deflection is 0.09057813893292617 \
+Percent deviation is 0.018278350660803938% 
